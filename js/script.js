@@ -1,7 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import $ from 'jquery';
-
 $(document).ready(function () {
     console.log("jQuery работает!");
 });
