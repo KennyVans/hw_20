@@ -1,0 +1,35 @@
+body {
+  background-color: rgba(8, 27, 93, 0.4588235294);
+}
+
+.mt-5 h2 {
+  text-align: center;
+  color: #ffffff;
+}
+.mt-5 button {
+  --bs-btn-bg: #2d9161;
+  --bs-btn-border-color: #2d9161;
+  --bs-btn-hover-color: #ffffff;
+  --bs-btn-hover-bg: #5ebc1186;
+  --bs-btn-hover-border-color: #5ebc1186;
+  --bs-btn-active-bg: #a6f29c;
+}
+.mt-5 .list-group {
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  word-break: break-word;
+}
+
+.modal-body {
+  word-break: break-word;
+}
+
+.btn-secondary {
+  --bs-btn-bg: #2d9161;
+  --bs-btn-border-color: #2d9161;
+  --bs-btn-hover-color: #ffffff;
+  --bs-btn-hover-bg: #5ebc1186;
+  --bs-btn-hover-border-color: #5ebc1186;
+  --bs-btn-active-bg: #a6f29c;
+}/*# sourceMappingURL=style.css.map */
